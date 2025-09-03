@@ -8,8 +8,7 @@
 * Typescript
 * TailwindCSS
 * Styled-component
-* Reduxtoolkit & RTKQuery(for state management)
-* Netlify
+* firebase
 
  ### Status & Purpose:
  I was able to practicalize working with Reactjs and Typescript on this project.
