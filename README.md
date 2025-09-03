@@ -9,6 +9,7 @@
 * TailwindCSS
 * Styled-component
 * firebase
+* netlify
 
  ### Status & Purpose:
  I was able to practicalize working with Reactjs and Typescript on this project.
